@@ -96,6 +96,16 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+plugins:
+  # hexo comment using gitalk
+  gitalk:
+    clientID: 8d73d1151ae9e838616e
+    clientSecret: 846292667022b8ab1e2825bc463e45912132579a
+    repo: hexo-yikaicao-comment
+    owner: yikaicao
+    admin: 
+      - yikaicao
+    distractionFreeMode: false
 ## Themes: https://hexo.io/themes/
 theme: next
 
