@@ -4,9 +4,9 @@
 
 # Site
 title: CYK 随笔
-subtitle: ''
-description: ''
-keywords:
+subtitle: 'This should be a subtitle.'
+description: "A developer's random posts."
+keywords: keyword1, keyword2
 author: '@realyikai'
 language: en
 timezone: ''
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
