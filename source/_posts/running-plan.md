@@ -3,10 +3,10 @@ title: Running Plan
 date: 2022-06-08 21:18:42
 tags:
 ---
-# Running Plan
-#org/2022
 
-## 参考RW的16周马拉松破4训练计划
+---
+
+## 训练
 1. *Week One* *(19M)*
 *Mon* 3M (miles) (or 30 mins, if you prefer to train by time) easy
 *Tue* Rest
@@ -135,6 +135,8 @@ tags:
 *Fri* Rest
 *Sat* 2M (or 20 mins) easy
 *Sun* Race day
+
+[参考RW的16周马拉松破4](https://www.runnersworld.com/uk/training/marathon/a760131/rws-ultimate-marathon-schedule-sub-400/#location-choice)
 
 ---
 
