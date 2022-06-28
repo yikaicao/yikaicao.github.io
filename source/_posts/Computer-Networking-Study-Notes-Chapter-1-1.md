@@ -4,21 +4,7 @@ date: 2022-06-28 17:19:14
 tags:
 ---
 
-# Computer Networks and the Internet
-
-## Chapter 1: introduction
-> Chapter goal: get “feel”, “ big picture”, introduction to terminology
-
-## Overview/roadmap:
-* What is the Internet? What is a protocol?
-* Network edge: hosts, access network, physical media
-* Network core: packet/circuit switching, internet structure
-* Performance: loss, delay, throughput
-* Protocol layers, service models
-* Security
-* History
-
-### What is the Internet?
+## What is the Internet?
 * Billions of connected devices:
 	* hosts = end systems
 	* running network apps at Internet’s “edge”
@@ -43,7 +29,7 @@ tags:
 	* “hooks” allowing sending/receiving apps to “connect” to, use Internet transport service
 	* provides service options, analogous to postal service
 
-### What is a protocol?
+## What is a protocol?
 * Network protocols:
 	* computers (devices) rather than humans
 	* all communication activity in Internet governed by protocols
